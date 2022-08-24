@@ -1,0 +1,22 @@
+{
+  "name": "java-script-html-css-project",
+  "version": "1.0.0",
+  "description": "basic all project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21pintoo-singh/JAVA-SCRIPT-HTML-CSS-PROJECT.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/21pintoo-singh/JAVA-SCRIPT-HTML-CSS-PROJECT/issues"
+  },
+  "homepage": "https://github.com/21pintoo-singh/JAVA-SCRIPT-HTML-CSS-PROJECT#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
